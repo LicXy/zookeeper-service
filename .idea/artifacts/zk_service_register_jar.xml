@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zk-service-register:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/zk_service_register_jar</output-path>
+    <root id="archive" name="zk-service-register.jar">
+      <element id="module-output" name="zk-service-register" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.32/fastjson-1.2.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
